@@ -1,0 +1,2 @@
+obj\Debug\netstandard2.0/Msg.cs \
+obj\Debug\netstandard2.0/MsgGrpc.cs: msg.proto
