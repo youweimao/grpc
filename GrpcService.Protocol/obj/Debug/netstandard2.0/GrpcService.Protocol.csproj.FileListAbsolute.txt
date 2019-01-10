@@ -1,9 +1,0 @@
-C:\Users\Administrator\source\repos\grpc.git\GrpcService.Protocol\bin\Debug\netstandard2.0\GrpcService.Protocol.deps.json
-C:\Users\Administrator\source\repos\grpc.git\GrpcService.Protocol\bin\Debug\netstandard2.0\GrpcService.Protocol.dll
-C:\Users\Administrator\source\repos\grpc.git\GrpcService.Protocol\obj\Debug\netstandard2.0\GrpcService.Protocol.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\source\repos\grpc.git\GrpcService.Protocol\obj\Debug\netstandard2.0\GrpcService.Protocol.AssemblyInfoInputs.cache
-C:\Users\Administrator\source\repos\grpc.git\GrpcService.Protocol\obj\Debug\netstandard2.0\GrpcService.Protocol.AssemblyInfo.cs
-C:\Users\Administrator\source\repos\grpc.git\GrpcService.Protocol\bin\Debug\netstandard2.0\GrpcService.Protocol.pdb
-C:\Users\Administrator\source\repos\grpc.git\GrpcService.Protocol\obj\Debug\netstandard2.0\GrpcService.Protocol.dll
-C:\Users\Administrator\source\repos\grpc.git\GrpcService.Protocol\obj\Debug\netstandard2.0\GrpcService.Protocol.pdb
-C:\Users\Administrator\source\repos\grpc.git\GrpcService.Protocol\obj\Debug\netstandard2.0\GrpcService.Protocol.csprojAssemblyReference.cache

@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcService.Protocol", "Grp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcClient", "GrpcClient\GrpcClient.csproj", "{E74276A2-F124-4AD8-982E-E0460E8D32B5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{963C99D1-7B07-471E-BBB6-ADCBBD2D2CAC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

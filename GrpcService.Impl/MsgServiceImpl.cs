@@ -16,5 +16,10 @@ namespace GrpcService.Impl
                 return new GetMsgSumReply() { Sum = 100 };
             });
         }
+
+        public override Task<GetMsgSumReply> TestException(GetMsgNumRequest request, ServerCallContext context)
+        {
+            throw new Exception("test async exception;");
+        }
     }
 }

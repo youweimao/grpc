@@ -4,6 +4,7 @@ package GrpcService.Protocol;
 
 service MsgService{
   rpc GetSum(GetMsgNumRequest) returns (GetMsgSumReply){}
+  rpc TestException(GetMsgNumRequest) returns (GetMsgSumReply){}
 }
 
 message GetMsgNumRequest {
